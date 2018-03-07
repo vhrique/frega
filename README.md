@@ -1,6 +1,8 @@
 # Estatística e Análise de Dados
 **Professor:** Frega
+
 **Local:** UFPR (Campus Jardim Botânico)
+
 **Aluno:** Victor Henrique Alves Ribeiro
 
 ## Introdução
